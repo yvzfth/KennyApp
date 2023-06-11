@@ -49,6 +49,3 @@ The Kenny app is inspired by the classic "Whack-a-Mole" game.
 
 Include screenshots of the app in action to provide visual context and entice users to try it out.
 
----
-
-Feel free to customize this README file based on your specific app features, requirements, and preferences.
